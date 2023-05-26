@@ -1,10 +1,10 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-.wrapper{
+.wrapper {
   max-width: 1440px;
   width: 100%;
   overflow-x: hidden;
@@ -16,17 +16,17 @@
   align-items: center;
 }
 
-.custom-form{
+.custom-form {
   width: 400px;
   height: auto;
   margin: 20px auto;
 }
 
-.input-and-btn{
+.input-and-btn {
   display: flex;
 }
 
-.todo-box{
+.todo-box {
   width: 400px;
   margin: 0 auto;
   display: flex;
@@ -34,28 +34,28 @@
   justify-content: space-between;
 }
 
-.todo-box .content{
+.todo-box .content {
   display: flex;
 }
 
-.todo-box .content p{
-  margin-top: -6px;
+.todo-box .content p {
+  margin-top: 12px;
   margin-left: 6px;
 }
 
-.todo-box span{
+.todo-box span {
   margin: 0 5px;
 }
 
-.delete-all{
+.delete-all {
   width: 400px;
 }
 
-.actions-box{
+.actions-box {
   cursor: pointer;
 }
 
-.back-btn{
+.back-btn {
   margin-top: 5px;
   width: 100%;
 }
